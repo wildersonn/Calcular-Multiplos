@@ -1,0 +1,16 @@
+body
+{background: #99C1CD}
+#titulo
+{
+  font-size: 60px; color : green; position: relative; top:; bottom: 90px ; right: ; left:;
+}
+#cajas {
+  font-size: 25px; position: relative; top: ; bottom: 200px; right: ; left: ;
+}
+#resultado{
+  font-size: 25px; position: relative; top: ; bottom: 150px; right: ; left: 645PX;
+}
+#mde
+{
+  font-size: 100px; color : green; position: relative; top:; bottom: 90px ; right: ; left:;  width:; height:50px;
+}
